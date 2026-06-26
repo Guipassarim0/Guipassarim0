@@ -1,166 +1,134 @@
-<h1 align="center">Olá, eu sou Guilherme Passarim 👋</h1>
+```md
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=⊹+Olá,+eu+sou+Guilherme+Passarim+👋+⊹;💻+Desenvolvedor+Back-end;🐍+Python+|+FastAPI+|+Django;☕+Java+Developer;🚀+Sempre+buscando+novos+desafios+e+aprendizado" alt="Typing SVG"/>
+</a>
+
+</div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end;Python+%7C+FastAPI+%7C+Django;Java+Developer;Sempre+aprendendo+novas+tecnologias."/>
+  💻 <b>Desenvolvedor Back-end</b>, apaixonado por tecnologia, desenvolvimento de APIs e soluções escaláveis.
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+  🚀 Graduado em <b>Análise e Desenvolvimento de Sistemas</b>, com experiência em desenvolvimento utilizando <b>Python</b>, <b>FastAPI</b>, <b>Django</b> e bancos de dados relacionais e NoSQL.
+</p>
+
+<p align="center">
+  📚 Sempre buscando aprimorar meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento, containers e novas tecnologias.
+</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/passarim)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guihhb.zl@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:3776AB&height=80&section=header"/>
 </p>
 
 ---
 
-# 💫 Sobre mim
+# 🚀 Tecnologias e Ferramentas
 
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
+## 👨‍💻 Linguagens
 
-💻 Desenvolvedor Back-end apaixonado por tecnologia e desenvolvimento de software.
-
-Tenho experiência no desenvolvimento de APIs REST, aplicações web e bancos de dados relacionais e NoSQL.
-
-Meu foco é escrever códigos limpos, organizados e escaláveis, seguindo boas práticas de desenvolvimento.
-
-Atualmente busco me especializar cada vez mais em desenvolvimento Back-end e Arquitetura de Software.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-# 🚀 Tecnologias
+## ⚙️ Frameworks
 
-### 👨‍💻 Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
-### ⚙️ Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django" />
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### 🛠 Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+## 🗄️ Banco de Dados
 
-<p align="center">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+## 🛠 Ferramentas
 
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🔥 Sequência de Contribuições
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Gráfico de Atividade
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Minhas Contribuições
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
----
-
-# 📚 Atualmente estudando
-
-- Arquitetura de Software
-- Docker
-- Microsserviços
-- Clean Architecture
-- FastAPI Avançado
-- Java
-- PostgreSQL
-- MongoDB
+</div>
 
 ---
 
 # 🎯 Objetivos
 
-✔ Construir APIs escaláveis
-
-✔ Aprender novas arquiteturas
-
-✔ Desenvolver aplicações de alto desempenho
-
-✔ Contribuir com projetos Open Source
+- 🚀 Evoluir constantemente como desenvolvedor Back-end.
+- 🏗️ Desenvolver APIs escaláveis e de alto desempenho.
+- 📚 Aprimorar conhecimentos em Arquitetura de Software e Microsserviços.
+- 🐳 Expandir minhas habilidades com Docker e DevOps.
+- 🌎 Contribuir para projetos Open Source.
 
 ---
 
-# 📫 Contato
+<div align="center">
 
-<p align="left">
+### ⭐ Obrigado por visitar meu perfil!
 
-<a href="mailto:guihhb.zl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+*"Transformando ideias em código, um commit de cada vez."*
 
-<a href="https://www.linkedin.com/in/passarim">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=00C853&style=for-the-badge"/>
 
-</p>
-
----
-
-# 👀 Visitantes
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-# 🐍 Minhas contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
-</p>
-
-<h3 align="center">
-
-"Transformando ideias em código, um commit de cada vez."
-
-</h3>
+</div>
+```
