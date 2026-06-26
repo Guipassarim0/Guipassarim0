@@ -1,52 +1,58 @@
 <h1 align="center">Olá, eu sou Guilherme Passarim 👋</h1>
 
-<h3 align="center">
-Desenvolvedor Back-end | Python | FastAPI | Django
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end;Python+%7C+FastAPI+%7C+Django;Java+Developer;Sempre+aprendendo+novas+tecnologias."/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
 
 ---
 
-## 🚀 Sobre mim
+# 💫 Sobre mim
 
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 
-💻 Desenvolvedor Back-end apaixonado por criar APIs escaláveis, aplicações web e soluções eficientes utilizando Python.
+💻 Desenvolvedor Back-end apaixonado por tecnologia e desenvolvimento de software.
 
-📚 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software.
+Tenho experiência no desenvolvimento de APIs REST, aplicações web e bancos de dados relacionais e NoSQL.
 
-🎯 Atualmente trabalho principalmente com desenvolvimento Back-end utilizando Python e bancos de dados relacionais e não relacionais.
+Meu foco é escrever códigos limpos, organizados e escaláveis, seguindo boas práticas de desenvolvimento.
+
+Atualmente busco me especializar cada vez mais em desenvolvimento Back-end e Arquitetura de Software.
 
 ---
 
-## 🛠️ Tecnologias
+# 🚀 Tecnologias
 
-### Linguagens
+### 👨‍💻 Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### Frameworks
+### ⚙️ Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django" />
 </p>
 
-### Banco de Dados
+### 🗄️ Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Ferramentas
+### 🛠 Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -58,7 +64,7 @@ Desenvolvedor Back-end | Python | FastAPI | Django
 
 ---
 
-## 🔥 Streak
+# 🔥 Sequência de Contribuições
 
 <p align="center">
 
@@ -68,40 +74,60 @@ Desenvolvedor Back-end | Python | FastAPI | Django
 
 ---
 
-## 💻 Tecnologias que utilizo
+# 📈 Activity Graph
 
-| Categoria | Tecnologias |
-|-----------|-------------|
-| Backend | Python, FastAPI, Django |
-| Banco de Dados | MySQL, PostgreSQL, MongoDB |
-| Versionamento | Git, GitHub |
-| Containers | Docker |
-| APIs | REST API |
-| Ferramentas | VS Code, Postman |
-| Sistema Operacional | Linux, Windows |
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📚 Atualmente estudando
 
 - Arquitetura de Software
 - Docker
-- APIs REST
-- Clean Architecture
 - Microsserviços
-- Boas práticas de desenvolvimento
+- Clean Architecture
+- FastAPI Avançado
+- Java
+- PostgreSQL
+- MongoDB
 
 ---
 
-## 📫 Contato
+# 🎯 Objetivos
 
-<p>
+✔ Construir APIs escaláveis
 
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+✔ Aprender novas arquiteturas
+
+✔ Desenvolver aplicações de alto desempenho
+
+✔ Contribuir com projetos Open Source
+
+---
+
+# 📫 Contato
+
+<p align="left">
+
+<a href="mailto:guihhb.zl@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/passarim">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -109,14 +135,32 @@ Desenvolvedor Back-end | Python | FastAPI | Django
 
 ---
 
+# 👀 Visitantes
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐍 Minhas contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
 <p align="center">
-⭐ Obrigado por visitar meu perfil!
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400">
 </p>
+
+<h3 align="center">
+
+"Transformando ideias em código, um commit de cada vez."
+
+</h3>
