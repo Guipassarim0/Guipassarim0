@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Guilherme%20Passarim&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20Django&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Guilherme+Passarim;%F0%9F%92%BB+Backend+Developer;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+Django;%E2%98%95+Java+Developer;%F0%9F%9A%80+Sempre+aprendendo+novas+tecnologias"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3501&pause=1000&color=00E676&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Guilherme+Passarim;%F0%9F%92%BB+Backend+Developer;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+Django;%E2%98%95+Java+Developer;%F0%9F%9A%80+Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
