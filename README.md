@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Guilherme%20Passarim&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20AWS&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3501&pause=1000&color=00E676&center=true&vCenter=true&width=750&lines=👋+Olá,+eu+sou+Guilherme+Passarim;%F0%9F%92%BB+Backend+Developer;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+Django;%E2%98%81%EF%B8%8F+AWS+EC2+%7C+RDS;%F0%9F%9A%80+Sempre+aprendendo+novas+tecnologias"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3501&pause=1000&color=00E676&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Guilherme+Passarim;%F0%9F%92%BB+Backend+Developer;%F0%9F%90%8D+Python;%F0%9F%9A%80+Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/guilherme-passarim/">
+<a href="https://www.linkedin.com/in/passarim/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,aws,mysql,postgres,mongodb,docker,git,github,vscode,linux,postman&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,aws,mysql,postgres,mongodb,docker,git,github,vscode,linux,postman&perline=7"/>
 
 </div>
 
@@ -83,29 +83,10 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guipassarim0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guipassarim0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img width="95%" src="https://streak-stats.demolab.com?user=Guipassarim0&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guipassarim0&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
