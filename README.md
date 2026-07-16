@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Guilherme%20Passarim&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20Django&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Guilherme%20Passarim&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Backend%20Developer%20•%20Python%20•%20FastAPI%20•%20AWS&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3501&pause=1000&color=00E676&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Guilherme+Passarim;%F0%9F%92%BB+Backend+Developer;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+Django;%E2%98%95+Java+Developer;%F0%9F%9A%80+Sempre+aprendendo+novas+tecnologias"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3501&pause=1000&color=00E676&center=true&vCenter=true&width=750&lines=👋+Olá,+eu+sou+Guilherme+Passarim;%F0%9F%92%BB+Backend+Developer;%F0%9F%90%8D+Python+%7C+FastAPI+%7C+Django;%E2%98%81%EF%B8%8F+AWS+EC2+%7C+RDS;%F0%9F%9A%80+Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
@@ -14,7 +14,9 @@
 
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 
-🚀 Desenvolvendo APIs escaláveis utilizando **Python**, **FastAPI**, **Django** e bancos de dados SQL e NoSQL.
+🚀 Desenvolvendo APIs escaláveis utilizando **Python**, **FastAPI**, **Django**, **Docker** e **AWS (EC2 e RDS)**.
+
+🗄️ Experiência com bancos de dados **PostgreSQL**, **MySQL** e **MongoDB**.
 
 📚 Sempre buscando evoluir como desenvolvedor e aprender novas tecnologias.
 
@@ -28,7 +30,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/passarim">
+<a href="https://www.linkedin.com/in/guilherme-passarim/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -44,9 +46,36 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,django,mysql,postgres,mongodb,docker,git,github,vscode,linux,postman&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,aws,mysql,postgres,mongodb,docker,git,github,vscode,linux,postman&perline=7"/>
 
 </div>
+
+---
+
+# ⭐ Projetos em Destaque
+
+### ⚽ API Álbum de Figurinhas
+
+- API REST desenvolvida com **Python**, **FastAPI**, **SQLAlchemy** e **PostgreSQL**
+- Autenticação com **JWT**
+- Versionamento de banco de dados com **Alembic**
+- Conteinerização com **Docker**
+- Deploy utilizando **AWS EC2**
+- Banco de dados hospedado no **Amazon RDS**
+
+🔗 **https://github.com/Guipassarim0/album-figurinhas-api**
+
+---
+
+### 💰 Finance API *(Em desenvolvimento)*
+
+- API REST para gerenciamento financeiro
+- Python + FastAPI + PostgreSQL
+- SQLAlchemy + Alembic
+- Autenticação com JWT
+- Arquitetura em camadas
+
+🔗 **https://github.com/Guipassarim0/Finance-API**
 
 ---
 
@@ -94,13 +123,17 @@ class GuilhermePassarim:
         self.degree = "Análise e Desenvolvimento de Sistemas"
 
         self.languages = [
-            "Python",
-            "Java"
+            "Python"
         ]
 
         self.frameworks = [
             "FastAPI",
             "Django"
+        ]
+
+        self.cloud = [
+            "AWS EC2",
+            "AWS RDS"
         ]
 
         self.databases = [
@@ -113,6 +146,7 @@ class GuilhermePassarim:
             "Docker",
             "Git",
             "GitHub",
+            "Linux",
             "VS Code",
             "Postman"
         ]
@@ -121,6 +155,7 @@ class GuilhermePassarim:
 
         return [
             "Arquitetura de Software",
+            "Cloud Computing",
             "Microsserviços",
             "Boas práticas",
             "APIs REST"
