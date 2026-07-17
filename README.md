@@ -63,32 +63,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-# ⭐ Projetos em Destaque
-
-### ⚽ API Álbum de Figurinhas
-
-- API REST desenvolvida com **Python**, **FastAPI**, **SQLAlchemy** e **PostgreSQL**
-- Autenticação com **JWT**
-- Versionamento de banco de dados com **Alembic**
-- Conteinerização com **Docker**
-- Deploy utilizando **AWS EC2**
-- Banco de dados hospedado no **Amazon RDS**
-
-🔗 **https://github.com/Guipassarim0/album-figurinhas-api**
-
----
-
-### 💰 Finance API *(Em desenvolvimento)*
-
-- API REST para gerenciamento financeiro
-- Python + FastAPI + PostgreSQL
-- SQLAlchemy + Alembic
-- Autenticação com JWT
-- Arquitetura em camadas
-
-🔗 **https://github.com/Guipassarim0/Finance-API**
 
 ---
 
