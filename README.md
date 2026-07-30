@@ -42,132 +42,34 @@
 
 ---
 
-# 🚀 Tech Stack
+## 💻 Tech Stack
 
-### 🖥️ Backend & APIs
+### 💻 Languages
+<img height="48" src="https://skillicons.dev/icons?i=python"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### ⚙️ Backend
+<img height="48" src="https://skillicons.dev/icons?i=fastapi"/> <img height="48" src="https://skillicons.dev/icons?i=django"/>
 
+### 🗄️ Database
+<img height="48" src="https://skillicons.dev/icons?i=postgres"/> <img height="48" src="https://skillicons.dev/icons?i=mysql"/>
 
-### 🗄️ Bancos de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🚀 Infraestrutura & Nuvem
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+### ☁️ Cloud & DevOps
+<img height="48" src="https://skillicons.dev/icons?i=aws"/> <img height="48" src="https://skillicons.dev/icons?i=docker"/>
+<img height="48" src="https://skillicons.dev/icons?i=linux"/>
+<img height="48" src="https://skillicons.dev/icons?i=git"/>
+<img height="48" src="https://skillicons.dev/icons?i=github"/>
 
 ---
+## 🛠️ Also Working With
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com?user=Guipassarim0&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
----
-
-# 👨‍💻 Sobre mim
-
-```python
-class GuilhermePassarim:
-
-    def __init__(self):
-
-        self.name = "Guilherme Passarim"
-
-        self.age = 20
-
-        self.degree = "Análise e Desenvolvimento de Sistemas"
-
-        self.languages = [
-            "Python"
-        ]
-
-        self.frameworks = [
-            "FastAPI",
-            "Django"
-        ]
-
-        self.cloud = [
-            "AWS EC2",
-            "AWS RDS"
-        ]
-
-        self.databases = [
-            "PostgreSQL",
-            "MySQL",
-            "MongoDB"
-        ]
-
-        self.tools = [
-            "Docker",
-            "Git",
-            "GitHub",
-            "Linux",
-            "VS Code",
-            "Postman"
-        ]
-
-    def current_focus(self):
-
-        return [
-            "Arquitetura de Software",
-            "Cloud Computing",
-            "Microsserviços",
-            "Boas práticas",
-            "APIs REST"
-        ]
-
-    def life_goal(self):
-
-        return "Construir soluções eficientes através da tecnologia."
-```
-
----
-
-# 🌱 Atualmente estudando
-
-```text
-📌 Clean Architecture
-
-📌 Docker
-
-📌 Python
-
-📌 Microsserviços
-
-📌 PostgreSQL
-
-📌 FastAPI
-
-📌 Arquitetura de Software
-```
-
----
-
-# 🎯 Objetivos
-
-✔ Desenvolver aplicações escaláveis
-
-✔ Evoluir continuamente como Back-end Developer
-
-✔ Contribuir para projetos Open Source
-
-✔ Aprender novas tecnologias
-
-✔ Compartilhar conhecimento
-
+| | |
+|---|---|
+| SQLAlchemy | Docker Compose |
+| Alembic | Swagger / OpenAPI |
+| JWT Authentication | API Integration & Consumption |
+| OAuth2 | REST APIs |
+| Pydantic | Web Scraping |
+| Microservices | |
 ---
 
 # 🐍 Contribuições
@@ -179,13 +81,5 @@ class GuilhermePassarim:
 </div>
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Guipassarim0&style=for-the-badge&color=00E676)
-
-### 💚 *"Transformando ideias em soluções através do código."*
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24"/>
