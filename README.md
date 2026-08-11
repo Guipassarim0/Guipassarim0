@@ -60,16 +60,23 @@
 <img height="48" src="https://skillicons.dev/icons?i=github"/>
 
 ---
+
+
 ## 🛠️ Also Working With
 
-| | |
-|---|---|
-| SQLAlchemy | Docker Compose |
-| Alembic | Swagger / OpenAPI |
+|                    |                               |
+| ------------------ | ----------------------------- |
+| SQLAlchemy         | Docker Compose                |
+| Alembic            | Swagger / OpenAPI             |
 | JWT Authentication | API Integration & Consumption |
-| OAuth2 | REST APIs |
-| Pydantic | Web Scraping |
-| Microservices | |
+| OAuth2             | REST APIs                     |
+| Pydantic           | Web Scraping                  |
+| Microservices      | PostgreSQL                    |
+| Git & GitHub       | Linux                         |
+| AWS (EC2 & RDS)    | Pandas & NumPy                |
+
+
+
 ---
 
 # 🐍 Contribuições
