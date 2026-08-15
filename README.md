@@ -74,6 +74,7 @@
 | Microservices      | PostgreSQL                    |
 | Git & GitHub       | Linux                         |
 | AWS (EC2 & RDS)    | Pandas & NumPy                |
+| Playwright         |                               |
 
 
 
